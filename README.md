@@ -5,7 +5,7 @@ Learn to Innovate with the micro:bit
 You can use the micro:bit also within Scratch. Maybe you have worked with Scratch already and you know the basic. In this level you will learn how to use the micro:bit in Scratch and will use some simple commands. In Level 3.5 you will make a game with the micro:bit and scratch. 
 
 ## Material you need
-* 1 micro:bit, 
+* 1 micro:bit
 * 1 usb cable 
 * 1 battery packs
 * computer with internet access and Bluetooth
